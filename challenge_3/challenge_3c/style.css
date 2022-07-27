@@ -9,10 +9,14 @@ img {
 
 div div {
 	margin: auto;
-	width: 33%;
-	height: 250px;
 }
 
 #big_div {
 	border: 5px solid black;
+}
+#sub_div2{
+	text-align: center;
+}
+#sub_div3{
+	text-align:right
 }
